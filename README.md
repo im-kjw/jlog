@@ -8,7 +8,7 @@ Python, SQL, Tableau 등을 활용해 실제 데이터에서 비즈니스 의사
 
 | 프로젝트 | 주제 | 사용 기술 |
 |----------|------|-----------|
-| [마케팅 A/B 테스트](./marketing_ab_test) | 마케팅 캠페인의 효과 검증 | Python, MySQL, Tableau, Docker |
+| [마케팅 A/B 테스트](./marketing_AB_test) | 마케팅 캠페인의 효과 검증 | Python, MySQL, Tableau, Docker |
 
 ---
 ### 프로젝트 개요: 마케팅 A/B 테스트
